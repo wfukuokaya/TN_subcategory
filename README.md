@@ -1,2 +1,5 @@
-# TN_subcategory
-Association of a stage III substaging with outcomes of radical cystectomy in patients with bladder cancer
+# Association of a stage III substaging with outcomes of radical cystectomy in patients with bladder cancer
+
+This repository contains the R code used in the study "Association of a stage III substaging with outcomes of radical cystectomy in patients with bladder cancer".
+
+The Tumor-Node-Metastasis (TNM) staging system, developed by American Joint Committee on Cancer, has long been used to categorize the extent of tumor invasion, lymph node involvement, and distant metastasis in patients with bladder cancer. The updates of the eighth edition of the TNM staging classification established new subgroups IIIA (T3-4aN0M0 or T1-4aN1M0) and IIIB (T1-4aN2-3M0) in stage III. However, evidence to support the prognostic validity of this sub-staging system remains scarce. This study aimed to evaluate the prognostic value of the new stage III substaging system in patients with bladder cancer undergoing radical cystectomy.
