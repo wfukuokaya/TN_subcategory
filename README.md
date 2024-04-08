@@ -1,4 +1,4 @@
-# Association of a stage III substaging with outcomes of radical cystectomy in patients with bladder cancer
+## Association of a stage III substaging with outcomes of radical cystectomy in patients with bladder cancer
 
 This repository contains the R code used in the study "Association of a stage III substaging with outcomes of radical cystectomy in patients with bladder cancer".
 
